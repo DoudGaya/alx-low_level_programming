@@ -1,14 +1,14 @@
 #include "main.h"
 /**
-* Function that print _putchar
+* main - function that print _putchar
 * function main that print _putchar to the stdoutput
-* return 0
+* Return: the main func return 0
 */
 
 int main(void)
 {
 _putchar('_');
-_putchar('P');
+_putchar('p');
 _putchar('u');
 _putchar('t');
 _putchar('c');
