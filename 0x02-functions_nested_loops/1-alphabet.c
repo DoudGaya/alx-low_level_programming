@@ -5,7 +5,7 @@
 * Return: returns 0 on evertime
 */
 
-int main(void)
+int alphabet(void)
 {
 int i;
 for (i = 'a'; i <= 'z'; i++)
