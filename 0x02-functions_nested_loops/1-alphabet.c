@@ -5,7 +5,7 @@
 * Return: returns 0 on evertime
 */
 
-void alphabet(void)
+void print_alphabet(void)
 {
 int i;
 for (i = 'a'; i <= 'z'; i++)
