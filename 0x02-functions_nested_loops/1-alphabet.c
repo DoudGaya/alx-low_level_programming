@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
-* main - functions desc
+* print_alphabet - functions desc
 * Return: returns 0 on evertime
 */
 
