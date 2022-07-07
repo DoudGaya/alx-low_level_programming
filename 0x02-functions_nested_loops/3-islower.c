@@ -5,7 +5,7 @@
 * Return: On success 1.
 */
 
-int _islower (char c)
+int _islower (int c)
 {
 return ('c' >= 'a' && 'c' <= 'Z');
 }
