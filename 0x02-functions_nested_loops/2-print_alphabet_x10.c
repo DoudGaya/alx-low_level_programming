@@ -3,7 +3,7 @@
 * print_alphabet_x10 - functions that prints alphabet 10 times
 * Return: On success
 */
-void print_alphabet_x10(void)
+void print_alphabet_10x(void)
 {
 int i;
 int j;
