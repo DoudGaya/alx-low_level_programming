@@ -1,4 +1,5 @@
-#include <main.h>
+#include "main.h"
+
 /**
 * reset_to_98- function that reset address to 98
 * @n: parameter of the function
