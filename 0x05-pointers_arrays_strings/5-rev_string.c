@@ -1,4 +1,4 @@
-#include "main.h";
+#include "main.h"
 
 /**
 * rev_string - Prints a string, in a reverse order
