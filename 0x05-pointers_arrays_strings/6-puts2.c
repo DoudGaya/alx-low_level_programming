@@ -6,9 +6,11 @@
 */
 void puts2(char *str)
 {
-int i = 0;
-int len;
-len = strlen(str);
+int i, len;
+while (str[i] != '\0')
+{
+len++;
+}
 for (i = 0; i < len; i++)
 {
 if (i % 2 == 0)
