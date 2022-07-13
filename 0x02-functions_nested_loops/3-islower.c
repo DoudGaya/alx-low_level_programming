@@ -1,7 +1,8 @@
 #include "main.h"
 
 /**
-* _islower - functions 
+* _islower - functions
+* @c: parameter  
 * Return: On success 1.
 */
 
