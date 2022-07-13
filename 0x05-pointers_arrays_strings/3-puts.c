@@ -4,7 +4,12 @@
 * @str: String to print
 * Return: Nothing
 */
-void _puts(char *str)  
+void _puts(char *str)
 {
-_putchar("%s\n", str);
+while (*str != '\0')
+{
+_putchar(*str);
+str++
+}
+_putchar("\n");
 }
