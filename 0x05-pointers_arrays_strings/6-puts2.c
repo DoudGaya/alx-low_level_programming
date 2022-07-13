@@ -12,12 +12,9 @@ while (str[i] != '\0')
 {
 len++;
 }
-for (i = 0; i < len; i++)
-{
-if (i % 2 == 0)
+for (i = 0; i < len; i += 2)
 {
 _putchar(str[i]);
-}
 }
 _putchar('\n');
 }
