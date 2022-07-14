@@ -1,4 +1,4 @@
-#include <stdio.h
+#include <stdio.h>
 /**
 *main - print albatets
 *Return: Always 0 (Success)
