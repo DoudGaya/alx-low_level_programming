@@ -2,11 +2,11 @@
 /**
  * is_prime - checks for prime number
  *
- * @n: input
+ * @n: input number.
  *
  * @c: iterator.
  *
- * Return: return 1 if true or 0 if false
+ * Return: 1 if true, 0 if false
  *
  */
 int is_prime(unsigned int n, unsigned int c)
@@ -21,14 +21,15 @@ else
 {
 return (0);
 }
+}
 return (0 + is_prime(n, c + 1));
 }
 /**
- * is_prime_number - prime number check
+ * is_prime_number - checks prime
  *
  * @n: input number.
  *
- * Return: return 1 if true and 0 if false
+ * Return: 1 if true, 0 if false
  *
  */
 int is_prime_number(int n)
