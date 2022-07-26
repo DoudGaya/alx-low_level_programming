@@ -69,9 +69,7 @@ c = 0;
 }
 }
 else if (c++ == 0)
-{
-begins = i;
-}
+{begins = i; }
 }
 mtrx[k] = NULL;
 return (mtrx);
