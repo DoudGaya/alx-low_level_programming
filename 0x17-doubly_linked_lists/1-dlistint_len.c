@@ -1,6 +1,6 @@
 #include "lists.h"
 /**
- * dlistint_len - return number of elements in a doubdly 
+ * dlistint_len - return number of elements in a doubdly
  * linked list
  * @h: head of the list
  * Return: the number of nodes
