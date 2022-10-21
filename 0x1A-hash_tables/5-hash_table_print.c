@@ -3,14 +3,13 @@
 
 
 /**
- *
  * hash_table_print - Prints a hash table.
  *
  * @ht: A pointer to the hash table to print.
  *
  * Description: Key/value pairs are printed in the order
  *
- */
+ **/
 
 void hash_table_print(const hash_table_t *ht)
 
